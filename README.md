@@ -1,5 +1,7 @@
 # mssql_query
 
+[![Git](https://app.soluble.cloud/api/v1/public/badges/172e4c84-81a3-4b0f-9ba2-e8dae0cfb034.svg?orgId=561911742905)](https://app.soluble.cloud/repos/details/github.com/mollypi/ansible-mssql-query?orgId=561911742905)  
+
 Run a SQL query on a Microsoft SQL Server database.
 
 ## Synopsis
